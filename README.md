@@ -1,9 +1,9 @@
 # Python
 This is a set of simple pyhton programs for beginners to understand pyhon\
 They can give you an idea about py\
-Learn py\
-Have fun!\
-Code
+Learn py 👽
+Have fun 
+Code 💻
 
 
 # @hariharan94j
