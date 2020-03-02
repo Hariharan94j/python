@@ -7,6 +7,6 @@ Code 💻
 
 
 # @hariharan94j
-Contact me for any help or queries\
-hariharan94j@gmail.com\
-Coding in progress 💻
+Contact for any help or queries\
+📩 hariharan94j@gmail.com\
+💻 Coding in progress
