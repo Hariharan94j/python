@@ -1,8 +1,9 @@
 #Largest number among the three inputs
 
-num1 = int(input("Enter first number: "))
-num2 = int(input("Enter second number: "))
-num3 = int(input("Enter third number: "))
+print("Enter 3 numbers")
+num1 = int(input())
+num2 = int(input())
+num3 = int(input())
 
 if (num1 > num2) and (num1 > num3):
   largest = num1
