@@ -2,13 +2,13 @@
 
 num=int(input("Enter number : "))
 flag=1
-z=int(num/2)
+div=int(num/2)
 
-for i in range(2,z):
+for i in range(2,div):
   x=num%i
   if(x==0):
     flag=0
-    i=num/2
+    i=div
   else:
     i-=1
     
